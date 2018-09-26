@@ -1,13 +1,14 @@
-package com.example.sbanipal.emptyactivity;
+package com.example.sbanipal;
 
 import android.app.Activity;
 import android.os.Bundle;
 
-public class EmptyActivity extends Activity {
+
+public class StartActivity extends Activity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_empty);
+        setContentView(R.layout.activity_start);
     }
 }

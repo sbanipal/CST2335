@@ -1,4 +1,4 @@
-package com.example.sbanipal.emptyactivity;
+package com.example.sbanipal;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;

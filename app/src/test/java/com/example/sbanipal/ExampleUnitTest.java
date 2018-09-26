@@ -1,4 +1,4 @@
-package com.example.sbanipal.emptyactivity;
+package com.example.sbanipal;
 
 import org.junit.Test;
 
